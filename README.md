@@ -25,5 +25,5 @@
   <a href="https://www.linkedin.com/in/lucas-raad-16a633239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/lucas.raaaad/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/lucasraad/lucasraad/actions/workflows/main)
+   ![Snake animation](https://github.com/lucasraad/.github/workflows/cobrinha.yml)
 </div>
